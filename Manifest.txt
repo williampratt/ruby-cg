@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/ruby/cg
+lib/ruby/cg.rb
+test/test_ruby/cg.rb
